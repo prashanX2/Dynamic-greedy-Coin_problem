@@ -1,0 +1,9 @@
+c:\users\prashan\documents\visual studio 2012\Projects\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\obj\Debug\Question2.Form1.resources
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.Cache
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\prashan\documents\visual studio 2012\Projects\Question2\Question2\obj\Debug\Question2.pdb
